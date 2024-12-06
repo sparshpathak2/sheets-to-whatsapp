@@ -1,0 +1,3 @@
+This is a static text file.
+=========================
+Hello, Kamini! This file has been created successfully.

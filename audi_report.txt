@@ -1,0 +1,290 @@
+=================
+Audi Leads 
+=================
+
+
+*LEAD NO 1*
+--------------------------
+Customer Name: Jayant Paul
+Mobile No: 9871496068
+Location: Faridabad 
+*Model: Audi Q3*
+Test Drive: Yes
+*Callback: call him after 7 pm*
+*Present Car: na*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 2*
+--------------------------
+Customer Name: Gulab Singh
+Mobile No: 9818127183
+Location: Delhi
+*Model: Audi Q3*
+Test Drive: next week
+*Callback: call him after 6:30 pm*
+*Present Car: fortuner*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: no*
+
+
+*LEAD NO 3*
+--------------------------
+Customer Name: Vijhay K Manchannda
+Mobile No: 9971995503
+Location: Faridabad
+*Model: Audi A6*
+Test Drive: Yes
+*Callback: call him after 05:30 pm*
+*Present Car: Innova*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 4*
+--------------------------
+Customer Name: Harsh Katyal
+Mobile No: 9999518998
+Location: New Delhi Rajouri Garden
+*Model: Audi A4*
+Test Drive: Yes
+*Callback: call him after 7 pm*
+*Present Car: Honda city*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 5*
+--------------------------
+Customer Name: Rohit Rana
+Mobile No: 9999692323
+Location: Gurugram Sec 05
+*Model: Audi A4*
+Test Drive: Yes
+*Callback: call him after 05:30 pm*
+*Present Car: E220d*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 6*
+--------------------------
+Customer Name: SSunil Kaul
+Mobile No: 9999491750
+Location: Noida Ats 94
+*Model: Audi Q3*
+Test Drive: Yes
+*Callback: call him after 7 pm*
+*Present Car: Xuv 700 xl*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 7*
+--------------------------
+Customer Name: Gagan Upadhyay
+Mobile No: 7836995589
+Location: Ghaziabad
+*Model: Audi A4*
+Test Drive: Yes
+*Callback: call him after 7 pm*
+*Present Car: Jeep compass*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 8*
+--------------------------
+Customer Name: Kunwar Jitendra Singh Chauhan
+Mobile No: 7417171111
+Location: Gurugram
+*Model: Audi A4*
+Test Drive: Yes
+*Callback: call him after 6:30 pm*
+*Present Car: Audi A4*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: not for merc*
+
+
+*LEAD NO 9*
+--------------------------
+Customer Name: Alok Ratan Sharma
+Mobile No: 9811867771
+Location: Noida Sector 128 Jaypee Greens, Jaypee Wish Town,
+*Model: Audi A4*
+Test Drive: Yes
+*Callback: call him tomorrow*
+*Present Car: Xuv 500*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 10*
+--------------------------
+Customer Name: Manya Siddh
+Mobile No: 9714481681
+Location: Surat
+*Model: GLA*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: Audi Q3*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 11*
+--------------------------
+Customer Name: Pranav Dhandhukiya
+Mobile No: 9727064026
+Location: Rajkot
+*Model: GLA*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: Fotuner*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 12*
+--------------------------
+Customer Name: Mushir Mansuri
+Mobile No: 8758080968
+Location: Ahmedabad
+*Model: A Class*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: Honda City*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 13*
+--------------------------
+Customer Name: Bipin patel
+Mobile No: 6355878670
+Location: Ahmedabad 
+*Model: A Class*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: BMW & Fortuner*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 14*
+--------------------------
+Customer Name: tariq
+Mobile No: 9858613131
+Location: delhi
+*Model: Toyota Hilux*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: Na*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 15*
+--------------------------
+Customer Name: Ashwani Yadav
+Mobile No: 9910886001
+Location: sikandrabad
+*Model: Toyota Hilux*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: Na*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 16*
+--------------------------
+Customer Name: Saurabh Tyagi
+Mobile No: 9897200348
+Location: noida
+*Model: Toyota Hilux*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: Na*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 17*
+--------------------------
+Customer Name: Sukhraj singh
+Mobile No: 9809855000
+Location: noida
+*Model: Toyota Hilux*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: Na*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 18*
+--------------------------
+Customer Name: Rajnnesh Khuraana
+Mobile No: 9873456722
+Location: delhi
+*Model: Toyota Hilux*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: Na*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
+*LEAD NO 19*
+--------------------------
+Customer Name: Amit Sekhri
+Mobile No: 9820494409
+Location: Mumbai Andheri
+*Model: Audi A6*
+Test Drive: Yes
+*Callback: Any time*
+*Present Car: Cruze*
+Finance: Yes
+Occupation: Business
+Budget: Not disclosed
+*Remark: *
+
+
