@@ -59,7 +59,8 @@ try:
             if row[1] == today_date and row[15] == "DELIVERED":
                 leads_found = True
                 with open(file_path, 'a') as fh:
-                    fh.write(f"*LEAD NO {leadnum}*\n")
+                    # Add "(DIGITAL)" and the date for the leads being processed
+                    fh.write(f"*LEAD NO {leadnum}, (DIGITAL) {today_date}*\n")
                     fh.write("--------------------------\n")
                     leadnum += 1
 
